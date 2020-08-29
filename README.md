@@ -19,11 +19,11 @@ The fields of interest include the following:
 *	
  
 
-The following sources for our datasets used:
+We used the following sources for our datasets:
 
-https://nextspaceflight.com/launches/past/?page=1
+* Next Space Flight:  https://nextspaceflight.com/launches/past/?page=1
 
-https://spaceflightnewsapi.net/api/v1/#api-Articles
+* Space Flight News:  https://spaceflightnewsapi.net/api/v1/#api-Articles
 
 
 ## Transform
