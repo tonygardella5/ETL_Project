@@ -2,11 +2,11 @@
 
 ## Extract
 
- The first data set source was:  Next Space Flight:  https://nextspaceflight.com/launches/past/?page=1
+ ### Data source 1:  Next Space Flight:  https://nextspaceflight.com/launches/past/?page=1
 * This data was extracted in the form of a csv file
 * We used Pandas to read the csv file into the dataframe
 
-The second data set source was:  Space Flight News:  https://spaceflightnewsapi.net/api/v1/#api-Articles
+### Data source 2:  Space Flight News:  https://spaceflightnewsapi.net/api/v1/#api-Articles
 * This data was extracted in the form of an API call
 * We used the requests and json libraries to read this data into the dataframe
 
