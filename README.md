@@ -15,12 +15,13 @@ The second data set source was:
 ## Transform
 
 In order to transform the data and use it in our study we performed the following:
-** CSV file was transformed using the Pandas library
+* CSV file was transformed using the Pandas library
 * df.drop was used to drop extra columns
 * .value_counts was used to review the amount of data collected
 * df.to_csv was used to save the completed dataframe as a csv file
 * df.to_json was used to save the completed dataframe as a json file for database entry
-** API file returned a lot of nested json data
+
+* API file returned a lot of nested json data
 * A for loop was utilized to get a list of data we needed
 * Pandas library was used to convert the json data into a dataframe
 * df.dtypes was used to determine data types
@@ -29,7 +30,7 @@ In order to transform the data and use it in our study we performed the followin
 * df.to_csv was used to save the completed dataframe as a csv file
 * df.to_json was used to save the completed dataframe as a json file for database entry
 * 
-* 
+* The two files were merged using pd.merge
 
 
 ## Load
