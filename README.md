@@ -30,7 +30,7 @@ We used the following sources for our datasets:
 
 In order to transform the data and use it in our study we performed the following:
 
-* Used Pandas functions in Jupyter Notebook to load all one CSV files and one API
+* Used Pandas functions in Jupyter Notebook to load one CSV files and one API call
 * Reviewed the files and transformed into data frames
 * 
 * 
