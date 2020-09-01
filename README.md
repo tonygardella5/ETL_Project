@@ -5,7 +5,7 @@
  ### Data source 1:  Next Space Flight:  https://nextspaceflight.com
 * This data was extracted in the form of a csv file
 
-### Data source 2:  Space Flight News:  https://www.huffpost.com/
+### Data source 2:  HuffPost:  https://www.huffpost.com/
 * This data was extracted in the form of a json file
 
 ## Transform
