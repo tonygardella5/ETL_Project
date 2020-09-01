@@ -17,16 +17,15 @@ CSV file was transformed using the Pandas library
 * df.drop was used to drop extra columns
 * .value_counts was used to review the amount of data collected
 * df.to_csv was used to save the completed dataframe as a csv file
-* df.to_json was used to save the completed dataframe as a json file for database entry
+* df.to_json was used to save the completed dataframe as a json file
 
-API file returned a lot of nested json data we needed to extract
-* A for loop was utilized to get a list of data we needed
+JSON file was transformed using the Pandas library
 * Pandas library was used to convert the json data into a dataframe
 * df.dtypes was used to determine data types
-* pd.to_datetime was used to convert date from object to datetime64
-* df.sort_values was used to sort values by article published data
+* 
+* 
 * df.to_csv was used to save the completed dataframe as a csv file
-* df.to_json was used to save the completed dataframe as a json file for database entry
+* df.to_json was used to save the completed dataframe as a json file
 * 
 * The two files were merged using pd.merge
 
