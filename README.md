@@ -4,11 +4,9 @@
 
  ### Data source 1:  Next Space Flight:  https://nextspaceflight.com
 * This data was extracted in the form of a csv file
-* We used Pandas to read the csv file into the dataframe
 
-### Data source 2:  Space Flight News:  https://spaceflightnewsapi.net
-* This data was extracted in the form of an API call
-* We used the requests and json libraries to read this data into the dataframe
+### Data source 2:  HuffPost:  https://www.huffpost.com/
+* This data was extracted in the form of a json file
 
 ## Transform
 
@@ -31,7 +29,7 @@ JSON file was transformed using the Pandas library
 
 
 ## Load
-The last step was to transfer our final output into a Database. We created a database and respective table to match the columns from the final Panda's Data Frame using ... 
+The last step was to transfer our final output into a database. We created a database and respective table to match the columns from the final Panda's Data Frame using ... 
 
 ## Summary
 
